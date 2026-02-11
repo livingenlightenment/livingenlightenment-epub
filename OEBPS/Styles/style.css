@@ -1,0 +1,187 @@
+/* Reset de base */
+body {
+  margin: 5%;
+  text-align: justify;
+  font-family: serif;
+}
+
+/* Titres — pas de page-break: chaque fichier XHTML = déjà une nouvelle page */
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+/* Paragraphes */
+p {
+  margin: 0;
+  text-indent: 1.5em;
+  line-height: 1.4;
+}
+
+/* Le premier paragraphe après un titre ne doit pas avoir de retrait */
+h1 + p {
+  text-indent: 0;
+  margin-top: 1em;
+}
+
+/* Images responsives */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-container {
+  text-align: center;
+  margin: 2em 0;
+}
+
+.legende {
+  font-size: 0.8em;
+  font-style: italic;
+  text-indent: 0;
+}
+
+/* Cover page */
+.cover {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.cover img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/* Title page */
+.title-page {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.title-page h1 {
+  font-size: 1.8em;
+  text-transform: none;
+  margin-bottom: 0.5em;
+}
+
+.title-page .author {
+  font-size: 1.1em;
+  font-style: italic;
+  margin-top: 1em;
+}
+
+.title-page .subtitle {
+  font-size: 0.95em;
+  margin-top: 1.5em;
+  font-style: italic;
+}
+
+/* Part divider page (section title grouping chapters) */
+[epub\:type="part"] {
+  text-align: center;
+  padding-top: 30%;
+}
+
+[epub\:type="part"] h1 {
+  font-size: 1.8em;
+  margin: 0;
+}
+
+[epub\:type="part"] p {
+  text-indent: 0;
+  font-style: italic;
+}
+
+/* Story / italic blocks */
+.p-story {
+  margin-left: 1em;
+  font-style: italic;
+  text-indent: 0;
+}
+
+/* Footnotes */
+.footnotes {
+  font-size: 0.85em;
+  border-top: 1px solid #ccc;
+  margin-top: 2em;
+  padding-top: 1em;
+}
+
+.footnotes ol {
+  padding-left: 1.2em;
+}
+
+.footnotes li {
+  margin-bottom: 0.5em;
+}
+
+/* Superscript links */
+sup a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 0.75em;
+}
+
+/* Links */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Table of contents: hierarchy matching print Contents */
+#toc .toc-title {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #000;
+  margin-bottom: 0.75em;
+}
+
+#toc .toc-front-matter {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1em 0;
+}
+
+#toc .toc-front-matter a,
+#toc .toc-part > a,
+#toc .toc-chapters a {
+  color: #00c;
+  text-decoration: underline;
+}
+
+#toc .toc-section {
+  font-size: 1.1em;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #000;
+  margin: 1em 0 0.35em 0;
+  padding: 0;
+}
+
+#toc .toc-parts {
+  list-style-type: square;
+  padding-left: 1.5em;
+  margin: 0 0 0.5em 0;
+}
+
+#toc .toc-part {
+  margin-bottom: 0.25em;
+}
+
+#toc .toc-part > a {
+  font-weight: bold;
+}
+
+#toc .toc-chapters {
+  list-style: none;
+  padding-left: 1.2em;
+  margin: 0.25em 0 0.5em 0;
+}
+
+#toc .toc-chapters li {
+  margin-bottom: 0.15em;
+}

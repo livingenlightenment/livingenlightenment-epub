@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="BookId">urn:uuid:b1a4e7c2-3f8d-4a2e-9c1b-5d6e7f8a9b0c</dc:identifier>
+    <dc:title>Living Enlightenment, Unabridged, 7th Edition</dc:title>
+    <dc:creator>KAILASA’s SPH JGM HDH Bhagavan Sri Nithyananda Paramashivam</dc:creator>
+    <dc:language>en</dc:language>
+    <meta property="dcterms:modified">2026-02-11T22:50:47Z</meta>
+  </metadata>
+  <manifest>
+    <item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
+    <item id="style" href="Styles/style.css" media-type="text/css" />
+    <item id="nav" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="title-page" href="Text/title-page.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch000" href="Text/ch000-preface.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch001" href="Text/ch001-introduction.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch002" href="Text/ch002-flow-in-love.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch003" href="Text/ch003-what-is-love.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch004" href="Text/ch004-love-cannot-be-created.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch005" href="Text/ch005-love-heals-five-types-of-restlessness.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch006" href="Text/ch006-love-brings-great-courage.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch007" href="Text/ch007-be-open-not-philosophizing.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch008" href="Text/ch008-ego-disconnects-love-connects.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch009" href="Text/ch009-be-a-lover-every-moment.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch010" href="Text/ch010-love-yourself-first.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch011" href="Text/ch011-love-existence-and-feel-it-loving-you.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch012" href="Text/ch012-love-is-different-from-respect.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch013" href="Text/ch013-love-is-the-root-of-all-religion.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch014" href="Text/ch014-three-types-of-love-and-their-integration.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch015" href="Text/ch015-enter-into-causeless-love.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch016" href="Text/ch016-love-hatred-and-attention-need.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch017" href="Text/ch017-the-unity-of-love.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch018" href="Text/ch018-love-and-liberate-dont-possess.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch019" href="Text/ch019-love-in-relationships.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch020" href="Text/ch020-meditation-feel-the-love-overflowing-in-you.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch021" href="Text/ch021-there-is-nothing-to-worry.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch022" href="Text/ch022-what-is-worry.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch023" href="Text/ch023-how-does-worry-take-root.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch024" href="Text/ch024-see-what-is-as-it-is-and-move-on.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch025" href="Text/ch025-worry-a-legacy-passed-down.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch026" href="Text/ch026-worry-and-dilemma-our-inner-software.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch027" href="Text/ch027-awareness-the-benign-virus.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch028" href="Text/ch028-dont-worry-about-others-opinions.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch029" href="Text/ch029-work-out-of-inspiration-not-out-of-worry.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch030" href="Text/ch030-leave-no-space-for-worry-to-fill.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch031" href="Text/ch031-worry-is-only-an-illusion.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch032" href="Text/ch032-surrender-and-relax.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch033" href="Text/ch033-the-ego-in-disguise.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch034" href="Text/ch034-work-out-of-worry-not-out-of-ego.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch035" href="Text/ch035-stop-worrying-about-your-wealth.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch036" href="Text/ch036-drop-worry-pick-up-health.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch037" href="Text/ch037-how-meditation-helps.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch038" href="Text/ch038-there-is-nothing-to-worry-meditation.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch039" href="Text/ch039-excel-without-stress.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch040" href="Text/ch040-what-is-stress.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch041" href="Text/ch041-mind-is-not-a-machine.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch042" href="Text/ch042-connecting-the-unconnected.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch043" href="Text/ch043-mind-is-a-process.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch044" href="Text/ch044-mind-is-also-an-illusion.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch045" href="Text/ch045-how-do-we-decide.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch046" href="Text/ch046-transcend-time-be-in-the-present.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch047" href="Text/ch047-inner-chatter.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch048" href="Text/ch048-words-cause-stress.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch049" href="Text/ch049-physiological-effects-of-stress.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch050" href="Text/ch050-is-stress-work-related.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch051" href="Text/ch051-beyond-stress.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch052" href="Text/ch052-excel-without-stress-meditation-technique.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch053" href="Text/ch053-face-your-fears-and-be-free.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch054" href="Text/ch054-what-is-fear.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch055" href="Text/ch055-big-bang-and-black-hole-inside-you.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch056" href="Text/ch056-fight-between-your-potentiality-and-your-negative-approach.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine>
+    <itemref idref="cover" />
+    <itemref idref="title-page" />
+    <itemref idref="nav" />
+    <itemref idref="ch000" />
+    <itemref idref="ch001" />
+    <itemref idref="ch002" />
+    <itemref idref="ch003" />
+    <itemref idref="ch004" />
+    <itemref idref="ch005" />
+    <itemref idref="ch006" />
+    <itemref idref="ch007" />
+    <itemref idref="ch008" />
+    <itemref idref="ch009" />
+    <itemref idref="ch010" />
+    <itemref idref="ch011" />
+    <itemref idref="ch012" />
+    <itemref idref="ch013" />
+    <itemref idref="ch014" />
+    <itemref idref="ch015" />
+    <itemref idref="ch016" />
+    <itemref idref="ch017" />
+    <itemref idref="ch018" />
+    <itemref idref="ch019" />
+    <itemref idref="ch020" />
+    <itemref idref="ch021" />
+    <itemref idref="ch022" />
+    <itemref idref="ch023" />
+    <itemref idref="ch024" />
+    <itemref idref="ch025" />
+    <itemref idref="ch026" />
+    <itemref idref="ch027" />
+    <itemref idref="ch028" />
+    <itemref idref="ch029" />
+    <itemref idref="ch030" />
+    <itemref idref="ch031" />
+    <itemref idref="ch032" />
+    <itemref idref="ch033" />
+    <itemref idref="ch034" />
+    <itemref idref="ch035" />
+    <itemref idref="ch036" />
+    <itemref idref="ch037" />
+    <itemref idref="ch038" />
+    <itemref idref="ch039" />
+    <itemref idref="ch040" />
+    <itemref idref="ch041" />
+    <itemref idref="ch042" />
+    <itemref idref="ch043" />
+    <itemref idref="ch044" />
+    <itemref idref="ch045" />
+    <itemref idref="ch046" />
+    <itemref idref="ch047" />
+    <itemref idref="ch048" />
+    <itemref idref="ch049" />
+    <itemref idref="ch050" />
+    <itemref idref="ch051" />
+    <itemref idref="ch052" />
+    <itemref idref="ch053" />
+    <itemref idref="ch054" />
+    <itemref idref="ch055" />
+    <itemref idref="ch056" />
+  </spine>
+</package>
