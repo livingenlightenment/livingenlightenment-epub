@@ -5,7 +5,7 @@
     <dc:title>Living Enlightenment, Unabridged, 7th Edition</dc:title>
     <dc:creator>KAILASA’s SPH JGM HDH Bhagavan Sri Nithyananda Paramashivam</dc:creator>
     <dc:language>en</dc:language>
-    <meta property="dcterms:modified">2026-02-11T23:28:55Z</meta>
+    <meta property="dcterms:modified">2026-02-11T23:35:29Z</meta>
   </metadata>
   <manifest>
     <item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
@@ -77,6 +77,7 @@
     <item id="ch061" href="Text/ch061-fear-of-losing-identity.xhtml" media-type="application/xhtml+xml" />
     <item id="ch062" href="Text/ch062-fear-of-death.xhtml" media-type="application/xhtml+xml" />
     <item id="ch063" href="Text/ch063-anger-the-active-form-of-fear.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch064" href="Text/ch064-fear-strokes.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine>
     <itemref idref="cover" />
@@ -146,5 +147,6 @@
     <itemref idref="ch061" />
     <itemref idref="ch062" />
     <itemref idref="ch063" />
+    <itemref idref="ch064" />
   </spine>
 </package>
