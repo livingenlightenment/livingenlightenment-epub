@@ -76,6 +76,7 @@
     <item id="ch060" href="Text/ch060-wisdom-through-fear.xhtml" media-type="application/xhtml+xml" />
     <item id="ch061" href="Text/ch061-fear-of-losing-identity.xhtml" media-type="application/xhtml+xml" />
     <item id="ch062" href="Text/ch062-fear-of-death.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch063" href="Text/ch063-anger-the-active-form-of-fear.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine>
     <itemref idref="cover" />
@@ -144,5 +145,6 @@
     <itemref idref="ch060" />
     <itemref idref="ch061" />
     <itemref idref="ch062" />
+    <itemref idref="ch063" />
   </spine>
 </package>
