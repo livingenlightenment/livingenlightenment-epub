@@ -5,7 +5,7 @@
     <dc:title>Living Enlightenment, Unabridged, 7th Edition</dc:title>
     <dc:creator>KAILASA’s SPH JGM HDH Bhagavan Sri Nithyananda Paramashivam</dc:creator>
     <dc:language>en</dc:language>
-    <meta property="dcterms:modified">2026-02-11T23:52:14Z</meta>
+    <meta property="dcterms:modified">2026-02-11T23:53:57Z</meta>
   </metadata>
   <manifest>
     <item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
@@ -81,6 +81,7 @@
     <item id="ch065" href="Text/ch065-how-to-overcome-fear.xhtml" media-type="application/xhtml+xml" />
     <item id="ch066" href="Text/ch066-witnessing-and-acceptance.xhtml" media-type="application/xhtml+xml" />
     <item id="ch067" href="Text/ch067-swadhishthana-chakra-seat-of-life-and-death.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch068" href="Text/ch068-visualization.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine>
     <itemref idref="cover" />
@@ -154,5 +155,6 @@
     <itemref idref="ch065" />
     <itemref idref="ch066" />
     <itemref idref="ch067" />
+    <itemref idref="ch068" />
   </spine>
 </package>
